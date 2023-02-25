@@ -1,12 +1,12 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.2",
+"Version":"1.4",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/KyawYoon190/vpn/blob/main/vpn?raw=true" ,
+"Url":"https://github.com/KyawYoon190/vpn/blob/main/vpn1?raw=true" ,
 "Changelog":"
 မ ဂင်္လာပါ dtac 
 10 day
-ကုန်ရက် ၂လပိုင်း ၃ရက်နေ့
+ကုန်ရက် 2လပိုင်း 3ရက်နေ့
  လေ့လာနေဆဲပါ😄😄😘😘😘
 ",
 //ไม่ต้องยุ่งด้านล่าง
